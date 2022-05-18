@@ -9,6 +9,7 @@ This project aims to solve this problem by developing a web application that sho
 <br>
 Check out the [website](http://aziza2027.pythonanywhere.com){:target="_blank"}
 <a href="http://aziza.uz/" target="_blank">Hello, world!</a>
+[Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank" rel="noopener"}
 ## Getting Started
 
 ### Running the app locally
