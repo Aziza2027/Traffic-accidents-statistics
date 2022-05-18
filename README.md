@@ -7,9 +7,7 @@ Every year, hundreds of accidents happen on the roads of Uzbekistan. Some of the
 
 This project aims to solve this problem by developing a web application that shows the number of road accidents in each region on the map. Data about each accident can be accessed via API of Open Data Portal. It is regularly uploaded by the Traffic Safety Department of Ministry of Internal Affairs of the Republic of Uzbekistan. By knowing exactly which type of accident occurs in which area, it becomes easier for authorities to see the big picture and take necessary actions to reduce their number that may occur in the future.
 <br>
-Check out the [website](http://aziza2027.pythonanywhere.com){:target="_blank"}
-<a href="http://aziza.uz/" target="_blank">Hello, world!</a>
-[Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank" rel="noopener"}
+Check out the [website](http://aziza2027.pythonanywhere.com)
 ## Getting Started
 
 ### Running the app locally
