@@ -1,4 +1,4 @@
-# Traffic accidents analysis
+# [Traffic accidents analysis](http://34.16.168.238:8050/page-1)
 
 Every year, hundreds of accidents happen on the roads of Uzbekistan. Some of these accidents bring few damages to passengers and transport, but others can take away lives. The presence of road rules and necessary infrastructure guarantees the appropriate movement of passengers and transport. However, in order to reduce the number of accidents, throughout investigation should be carried out.
 
@@ -6,7 +6,7 @@ Every year, hundreds of accidents happen on the roads of Uzbekistan. Some of the
 
 This project aims to solve this problem by developing a web application that shows the number of road accidents in each region on the map. Data about each accident can be accessed via API of Open Data Portal. It is regularly uploaded by the Traffic Safety Department of Ministry of Internal Affairs of the Republic of Uzbekistan. By knowing exactly which type of accident occurs in which area, it becomes easier for authorities to see the big picture and take necessary actions to reduce their number that may occur in the future.
 <br>
-Check out the [website](http://aziza2027.pythonanywhere.com)
+Check out the [website](http://34.16.168.238:8050/page-1)
 ## Getting Started
 
 ### Running the app locally
